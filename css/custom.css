@@ -21,3 +21,9 @@ body{
   background-image: url("../background.jpg");
   background-repeat: repeat;
 }
+
+#artsec{
+  background-color:white;
+  height:150px;
+  margin-top:10px;
+}
