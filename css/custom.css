@@ -24,6 +24,12 @@ body{
 
 #artsec{
   background-color:white;
-  height:150px;
+  height:225px;
   margin-top:10px;
+}
+
+#ads{
+  background-color:white;
+  margin-top:10px;
+  margin-left:10px;
 }
