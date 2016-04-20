@@ -58,4 +58,7 @@ footer{
 #aone{
   margin-top:15px;
   width:100%;
+  border-bottom-color:gray;
+  border-bottom-width:3px;
+  border-bottom-style:groove;
 }
