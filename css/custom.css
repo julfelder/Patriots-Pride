@@ -16,3 +16,9 @@
 #bodyback{
   background-color:gray;
 }
+
+body{
+  background-image: url("../background.jpg");
+  background-repeat: repeat-y;
+  background-repeat: repeat-x;
+}
