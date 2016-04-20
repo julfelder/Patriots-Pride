@@ -46,3 +46,8 @@ body{
   background-color:white;
   margin-bottom:50px;
 }
+
+#textpara{
+  padding-left:100px;
+  padding-right:100px;
+}
